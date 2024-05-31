@@ -1,0 +1,16 @@
+.field input, select, textarea {
+    line-height: 26px;
+    padding: 8px 16px;
+    padding-bottom: 2px;
+    width: 100%;
+    border: unset;
+    border-radius: 3px;
+    background-color: #ffffff;
+    box-shadow: rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px,
+      rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(60, 66, 87, 0.16) 0px 0px 0px 1px,
+      rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px,
+      rgba(0, 0, 0, 0) 0px 0px 0px 0px;
+    justify-content: right;  
+    font-size: 13px;
+    margin-bottom: 12px;
+  }
